@@ -1,4 +1,4 @@
-#Recovery CD user guide for WES7P
+# Recovery CD user guide for WES7P
 ## 1. Recover system.
 * **Touch Screen Calibration** : click five point Calibration
 * **Recover OS** : install OS
