@@ -26,7 +26,7 @@
 * **Start → control panel → Add or remove user accounts.**
 ![image/user.png](image/user.png)
 
-* **Select test account.**
+* **Select test(user) account .**
 ![image/user2.png](image/user2.png)
 
 * **Delete the account → Delete Files → Delete Accounts.**
