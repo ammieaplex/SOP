@@ -46,10 +46,10 @@
 * **open Recovery CD → run Sysprep_wes7_20170525.exe**
 ![image/sysprep1.png](image/sysprep1.png)
 
-* **choose OS**
+* **Select the current environment**
 ![image/sysprep2.png](image/sysprep2.png)
 
-* **OS shutdown**
+* **Computer system shutdown**
 ![image/sysprep3.png](image/sysprep3.png)
 
 
